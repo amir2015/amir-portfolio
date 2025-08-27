@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/amir2015">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%7C+Ruby+on+Rails;BackEndEnthusiast;Open+to+Work+Remotely +or+ relocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%7C+Ruby+on+Rails;Backend+Enthusiast;Open+to+Work+Remotely+or+Relocate" alt="Typing SVG" />
   </a>
 </p>
 
