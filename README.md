@@ -49,7 +49,7 @@
 ## 📌 Featured Projects  
 
 ### 🔹 ChurnGuard  
-<a href="https://github.com/amir2015/churnguard">
+<a href="https://github.com/amir2015/churnguard_api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir2015&repo=churnguard&theme=tokyonight" />
 </a>  
 
@@ -76,7 +76,7 @@ ChurnGuard is an enterprise-grade customer retention platform that empowers busi
 ---
 
 ### 🔹 RailsEstate  
-<a href="https://github.com/amir2015/railsestate_api">
+<a href="https://github.com/amir2015/tenant_railsestate_api">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir2015&repo=railsestate_api&theme=tokyonight" />
 </a>
 
