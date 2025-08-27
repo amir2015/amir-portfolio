@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/amir2015">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%7C+Ruby+on+Rails;System+Design+Enthusiast;Building+SaaS+%26+Mobile+Apps;Open+to+Work+in+Europe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;NestJS+%7C+Ruby+on+Rails;BackEndEnthusiast;Open+to+Work+Remotely +or+ relocate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,8 +13,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate **Full-Stack Developer** focused on **NestJS, ExpressJs, And Ruby on Rails **  
-- 📱 Exploring **Mobile Dev** with **Turbo Native & Hotwire Native**  
-- 🤖 Learning **AI-powered APIs** with Rails  
+- 🤖 Learning **AI-powered APIs** with Rails  and Nestjs
 - 🌍 Open to different opportunities.  
 
 ---
