@@ -129,8 +129,7 @@ The system leverages Ruby on Rails API-only architecture with a sophisticated ca
 - **Multi-Asset Coverage**: Comprehensive support for stocks, ETFs, cryptocurrencies, forex, and commodities
 - **Intelligent Caching**: Redis-powered distributed caching reducing database load by 80%
 - **Enterprise Security**: JWT-based authentication with API key management and comprehensive audit trails
-- **Scalable Infrastructure**: Handles 1M+ daily API calls with 99.9% uptime SLA
-- **Developer Experience**: Interactive documentation with SDKs and live testing environment
+- **Scalable Infrastructure**: Handles daily API calls
 
 ### Technical Achievements
 Built to handle institutional-grade workloads, the API serves data to applications managing billions in assets under management. The system architecture ensures horizontal scalability while maintaining data consistency across distributed components.
@@ -245,11 +244,11 @@ ShopsyShop serves as both a functional e-commerce platform and a showcase of adv
 
 | Project             | Primary Tech | Lines of Code | Key Metric                |
 |---------------------|--------------|---------------|---------------------------|
-| Marketror API       | Ruby/Rails   | ~15K          | 1M+ API calls/day         |
-| NestyBooking        | TypeScript   | ~25K          | 40% faster bookings       |
-| NestyCommerce       | Next.js      | ~30K          | 35% conversion increase   |
-| React Rails Estate  | Rails/React  | ~40K          | 10K+ property listings    |
-| ShopsyShop          | Vanilla JS   | ~8K           | <50KB bundle size         |
+| Marketror API       | Ruby/Rails   | ~10K          | 1000s API calls/day         |
+| NestyBooking        | TypeScript   | ~10K          |     |
+| NestyCommerce       | Nest.js      | ~10K          |    |
+| React Rails Estate  | Rails/React  | ~5K          | 1000s+ property listings    |
+| ShopsyShop          | Express/Js   | ~8K           | <50KB bundle size         |
 
 ---
 
